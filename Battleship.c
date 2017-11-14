@@ -18,6 +18,7 @@ void delay(clock_t a)
 
     }
 }
+
 int main()
 {
     //A:Aircraft carrier
